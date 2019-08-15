@@ -1,4 +1,4 @@
-# UKAN_Machine_Learning_summer_school
+# UKAN Machine Learning summer school 2019
 This repository contains the PDF notes and Jupyter notebooks from the 2019 edition of the UK Acoustics Network (UKAN) Machine Learning summer school. 
 
 The intention of this summer school was to provide a grounding on basic machine learning, and to link this to acoustics applications. 
