@@ -8,7 +8,7 @@ We decided to place an emphasis on supervised learning and more specifically reg
 
 The course took place as follows:
 
- - Day 1 - Linear models for regression
+ - [Day 1](https://github.com/ramon-fuentes/UKAN_Machine_Learning_summer_school/blob/master/session_1_ML_intro.pdf)  - Linear models for regression
  - Day 2 - Nonlinear models for regression and regularisation / ridge regression
  - Day 3 - Kernel Machines with an emphasis on kernel ridge regression
  - Day 4 - Unsupervised learning, with an emphasis on density estimation. 
