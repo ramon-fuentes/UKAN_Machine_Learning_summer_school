@@ -11,6 +11,6 @@ The course took place as follows:
  - [Day 2](ML_session_2_regularisation.pdf) - Nonlinear models for regression and regularisation / ridge regression, and a brief introduction to [cross-validation](ML_cross_validation.pdf). 
  - [Day 3](ML_session_3_kernels.pdf) - Kernel Machines with an emphasis on kernel ridge regression
  - [Day 4](ML_session_4_unsupervised_learning.pdf) - Unsupervised learning, with an emphasis on density estimation. 
- - [Day 5](ML_session_4_unsupervised_learning.pdf) - Machine Learning Challenge - itentifyfing outlying observations ona wave propagation dataset. 
+ - [Day 5](ML_session_4_unsupervised_learning.pdf) - Machine Learning Challenge - itentifying outlying observations ona wave propagation dataset. 
 
 I have fixed some of the errors that crept into the slides, but if you spot any, please let me know ;)
